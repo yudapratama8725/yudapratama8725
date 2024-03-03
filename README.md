@@ -35,4 +35,4 @@ Let's connect and collaborate on exciting front-end development projects! You ca
 
 <h2> 👩🏻‍💻 My Contributions</h2>
 
-<img alt="snake eating my contibutions" src="https://raw.githubusercontent.com/yudapratama8725/yudapratama8725/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yudapratama8725/yudapratama8725/output/github-contribution-grid-snake.svg" />
