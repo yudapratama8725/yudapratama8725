@@ -20,7 +20,7 @@ Undergraduate student of Information Systems at Ganesha University of Education.
 
 <h2>🌍 Connect with Me</h2>
 
-Let's connect and collaborate on exciting front-end development projects! You can reach me through the following platforms:
+Let's connect and collaborate on exciting web development projects! You can reach me through the following platforms:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yudapratamaa/" target="blank">
@@ -33,6 +33,4 @@ Let's connect and collaborate on exciting front-end development projects! You ca
   </a>
 </p>
 
-<h2> 👩🏻‍💻 My Contributions</h2>
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yudapratama8725/yudapratama8725/output/github-contribution-grid-snake.svg" />
+Let's to creating amazing web experiences together!
