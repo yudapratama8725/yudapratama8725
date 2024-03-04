@@ -15,7 +15,7 @@ Undergraduate student of Information Systems at Ganesha University of Education.
 <h2>🛠️ Tech Stack</h2>
 
 <p align="left"> 
- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,js,php,laravel,mongodb,mysql,postman,git"/>
+ <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,js,php,laravel,mongodb,mysql,postman,git,github"/>
 </p>
 
 <h2>🌍 Connect with Me</h2>
