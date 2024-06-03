@@ -4,7 +4,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yudapratama8725.yudapratama8725" />
 
 </br>
-- 🌱 I’m currently learning <strong>React JS, Laravel</strong>
+- 🌱 I’m currently learning <strong>Laravel</strong>
 </br>
 - 📫 How to reach me <strong>yudaapro27@gmail.com</strong>
 
